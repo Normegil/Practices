@@ -1,2 +1,9 @@
-#Binaries
+#GO
+# Binaries
 bin/
+
+#Java
+# IDE
+.classpath
+.project
+.settings
